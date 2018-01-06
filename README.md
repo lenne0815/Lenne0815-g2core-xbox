@@ -17,7 +17,7 @@ not conflict with other ChiliPeppr objects.
 | chilipeppr.load() URL | http://raw.githubusercontent.com/https://master/auto-generated-workspace.html |
 | Edit URL              | http://ide.c9.io/root/lenne0815 |
 | Github URL            | http://github.com/https:/ |
-| Test URL              | https://f7e39963d19442c0809504f3184468d3.vfs.cloud9.eu-west-1.amazonaws.comworkspace.html |
+| Test URL              | https://f7e39963d19442c0809504f3184468d3.vfs.cloud9.eu-west-1.amazonaws.com/workspace.html |
 
 ## Example Code for chilipeppr.load() Statement
 
