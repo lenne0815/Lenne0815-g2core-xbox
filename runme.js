@@ -167,14 +167,9 @@ var fileJsPath = "workspace.js"
 var fileCssPath = "workspace.css"
 var fileHtmlPath = "workspace.html"
 
-var widgetUrl = 'http://' +
-    process.env.C9_PROJECT + '-' + process.env.C9_USER +
-    '.c9users.io/workspace.html';
-var testUrl = 'https://preview.c9users.io/' +
-    process.env.C9_USER + '/' +
-    process.env.C9_PROJECT + '/' + fileHtmlPath;
-var testUrlNoSsl = 'http://' + process.env.C9_PROJECT +
-    '-' + process.env.C9_USER + '.c9users.io/' + fileHtmlPath;
+var widgetUrl = 'https://f7e39963d19442c0809504f3184468d3.vfs.cloud9.eu-west-1.amazonaws.com/workspace.html';
+var testUrl = 'https://f7e39963d19442c0809504f3184468d3.vfs.cloud9.eu-west-1.amazonaws.com' + fileHtmlPath;
+var testUrlNoSsl = 'https://f7e39963d19442c0809504f3184468d3.vfs.cloud9.eu-west-1.amazonaws.com' + fileHtmlPath;
 var editUrl = 'http://ide.c9.io/' +
     process.env.C9_USER + '/' +
     process.env.C9_PROJECT;
